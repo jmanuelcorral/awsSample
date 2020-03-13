@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "jmanuelcorral/awsbeanstalknetcoresample",
+      "Name": "jmanuelcorral/awsbeanstalknetcoresample:latest",
       "Update": "true"
     },
     "Ports": [

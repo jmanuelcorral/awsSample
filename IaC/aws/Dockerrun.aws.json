@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "quay.io/johndoe/private-image",
+      "Name": "jmanuelcorral/awsbeanstalknetcoresample",
       "Update": "true"
     },
     "Ports": [
